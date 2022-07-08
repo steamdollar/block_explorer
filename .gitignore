@@ -1,0 +1,7 @@
+node_modules
+zdaily_report
+node
+.env
+block.test.js
+chain_network
+App.test.js
